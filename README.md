@@ -1,8 +1,8 @@
 # Identificação
 
-* Nome: 
-* Email (@ccc): 
-* Matrícula: 
+* Nome: Danilo Henrique Peixoto de Sales  
+* Email (@ccc): danilo.henrique.peixoto.sales@ccc.ufcg.edu.br
+* Matrícula: 123210295 
 
 # Roteiro: isAVL
 
@@ -24,8 +24,7 @@
 
 ## A tarefa. 
 
-Você deve implementar o método isAVL, que verifica se uma BST é AVL, dada a definição que vimos em sala de aula. Para isso, você vai precisar implementar alguns métodos auxiliares, que 
-também estão na classe BST.
+Você deve implementar o método isAVL, que verifica se uma BST é AVL, dada a definição que vimos em sala de aula. Para isso, você vai precisar implementar alguns métodos auxiliares, que também estão na classe BST.
 
 ## Entregando o lab
 
